@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pydub = "*"
+black = "*"
+flake8 = "*"
+pytest = "*"
+ffmpeg-python = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
+
+[pipenv]
+allow_prereleases = true
