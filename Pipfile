@@ -9,6 +9,9 @@ black = "*"
 flake8 = "*"
 pytest = "*"
 ffmpeg-python = "*"
+levenshtein = "*"
+tqdm = "*"
+websocket-client = "*"
 
 [dev-packages]
 

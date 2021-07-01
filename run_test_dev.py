@@ -2,7 +2,7 @@ import pytest
 import time
 import os
 
-CASE_DIR = "./about_file/excel_test.py"
+CASE_DIR = "./other/levenshtein_test.py"
 marked = ""
 
 if __name__ == "__main__":

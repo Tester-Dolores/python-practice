@@ -133,3 +133,5 @@ dmypy.json
 
 *.xlsx
 *.csv
+ws_test.py
+test111/
