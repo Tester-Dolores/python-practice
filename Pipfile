@@ -12,6 +12,8 @@ ffmpeg-python = "*"
 levenshtein = "*"
 tqdm = "*"
 websocket-client = "*"
+psutil = "*"
+gputil = "*"
 
 [dev-packages]
 
